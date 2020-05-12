@@ -1,10 +1,9 @@
-# Hello World - CIS 3515
+# Hello World
 
-**Assignment 1**
+**CIS 3515 Introduction to Mobile Application Development - Assignment 1**
 
-This was the first assignment I worked on for my CIS 3515 - Introduction to Mobile Application Development course. 
-The application was made to practice working with views and event listeners in Android. When the button is clicked, 
-a message is displayed as shown below.
+This application was made to practice working with views and event listeners in Android. When the button is clicked, 
+a message is displayed notifying the user they have clicked the button.
 <br />
 <br />
 <br />
